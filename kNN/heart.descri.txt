@@ -1,0 +1,35 @@
+Heart disease dataset
+DATASET DESCRIPTION
+NUMBER OF EXAMPLES: 270 
+NUMBER OF CLASSES: 2
+Absence (1) or presence (2) of heart disease 
+	Class	Nr.Examples
+	-------------------
+	1	150 ( 55.56%)
+	2	120 ( 44.44%)
+
+NUMBER OF ATTRIBUTES: 
+This database contains 13 attributes 
+(which have been extracted from a larger set of 75) 
+Attribute Information: 
+A1: age 
+A2: sex 
+A3: chest pain type (4 values) 
+A4: resting blood pressure 
+A5: serum cholestoral in mg/dl 
+A6: fasting blood sugar > 120 mg/dl 
+A7: resting electrocardiographic results (values 0,1,2) 
+A8: maximum heart rate achieved 
+A9: exercise induced angina 
+A10: oldpeak = ST depression induced by exercise relative to rest 
+A11: the slope of the peak exercise ST segment 
+A12: number of major vessels (0-3) colored by flourosopy 
+A13: thal: 3 = normal; 6 = fixed defect; 7 = reversable defect 
+
+Attributes types 
+	Real: 	A1,A4,A5,A8,A10,A12
+	Ordered: A11,
+	Binary: A2,A6,A9
+	Nominal:A7,A3,A13
+
+Missing values: none 

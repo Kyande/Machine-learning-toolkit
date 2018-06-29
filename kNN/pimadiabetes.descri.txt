@@ -1,0 +1,42 @@
+Pima Indians Diabetes Dataset
+DATASET DESCRIPTION
+NUMBER OF EXAMPLES: 
+768 
+  
+NUMBER OF CLASSES: 
+2 (1,2) 
+(class value 2 is interpreted as "tested positive for diabetes") 
+  
+Class Distribution: 
+Class Value  Number of instances
+  1            500 (65.1%)
+  2            268 (34.9%)
+
+
+NUMBER OF ATTRIBUTES: 
+8 
+  A1. Number of times pregnant
+  A2. Plasma glucose concentration a 2 hours in an oral
+         glucose tolerance test
+  A3. Diastolic blood pressure (mm Hg)
+  A4. Triceps skin fold thickness (mm)
+  A5. 2-Hour serum insulin (mu U/ml)
+  A6. Body mass index (weight in kg/(height in m)^2)
+  A7. Diabetes pedigree function
+  A8. Age (years)
+Brief statistical analysis: 
+   Attribute number:    Mean:   Standard Deviation:
+   A1.                     3.8     3.4
+   A2.                   120.9    32.0
+   A3.                    69.1    19.4
+   A4.                    20.5    16.0
+   A5.                    79.8   115.2
+   A6.                    32.0     7.9
+   A7.                     0.5     0.3
+   A8.                    33.2    11.8
+
+
+Missing Attribute Values: 
+None 
+Remarks 
+Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
