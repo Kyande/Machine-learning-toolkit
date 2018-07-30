@@ -1,5 +1,3 @@
-# Kyande Michael John
-# P15/34906/2014
 # k-Nearest Neighbours algorithm
 # import packages
 import csv
